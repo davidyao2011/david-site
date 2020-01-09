@@ -1,6 +1,6 @@
-# gatsby-starter-prologue
+# David-Site
 
-Gatsby.js V2 starter template based on Prologue by HTML5 UP
+Personal site built by David Yao - Gatsby
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
 
