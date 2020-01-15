@@ -1,14 +1,14 @@
 {
   "name": "david-site",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Prologue by HTML5 UP",
+  "description": "personal website showing projects",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-prologue.git"
+    "url": "https://github.com/daweiyao91031105/david-site.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "David Yao",
+    "email": "davidyao2011@hotmail.com"
   },
   "dependencies": {
     "gatsby": "^2.4.3",
@@ -44,7 +44,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-prologue/issues"
+    "url": "https://github.com/daweiyao91031105/david-site.git"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-prologue#readme"
+  "homepage": "https://daweiyao91031105.github.io/david-site/"
 }
